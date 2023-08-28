@@ -41,5 +41,5 @@ Los siguientes atributos mostrados en el curso son:
   <li>type: Este atributo sirve para que el usuario puede interactuar e indicar que tipo va a ser, por ejemplo, texto, contraseñas, botones, entre otros.</li>
   <li>name: Sirve para representar los datos que están siendo enviados.</li>
   <li>placeholder: Nos da una idea de que tipo de información debemos escribir en un elemento input.</li>
-  <li>- required: Este atributo hace que sea obligatorio llenar o verificar algún input.</li>
+  <li>required: Este atributo hace que sea obligatorio llenar o verificar algún input.</li>
 </ul>
