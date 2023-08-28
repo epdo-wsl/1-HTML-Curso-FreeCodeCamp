@@ -9,19 +9,19 @@ Es un lenguaje de marcado de hipertexto, este es el que da forma principal a las
 Ahora, este lenguaje tiene caracteristicas que permite al navegador comprender como debe comportarse ante el usuario al momento de interactuar.
 HTML esta conformado principalmente por elementos, de las cuales son las que se ponen en práctica en el curso:
 <ul>
-  <il>H1 - H6: Este elemento es principalmente para darles encabezados a las páginas webs, dando prioridar de importante por el número 1 como más importante hasta el número 6 como menos importante, ádemas, es importante que el elemento h1 se deberá usar una vez por páginas y usarse sus desendencias si se busca tener encabezados.</il>
-  <il>p: Es un elemento que se utiliza para dar párrafos a la página.</il>
-  <il>main: <em>Elemento único</em>. Es de suma importancia para personas con discapacidades, que habitualmente acceden a la web a través de programas especiales como los navegadores de voz. Es la que permite clasificar de otros elementos como header y footer.</il>
-  <il>a: Llamado elementos anchor, este elemento contiene un enlace que te llevará a otra página con el elemento anchor.</il>
-  <il>section: Es una elemento que marcar contenido en un documento HTML y ayuda a ser útil la accesibilidad y la usabilidad del contenido, así como para mejorar la estructuración y la organización del contenido.</il>
-  <il>ul: Elemento para comenzar una lista desordenada.</il>
-  <il>ol: Elemento para comenzar una lista ordenada.</il>
-  <il>li: Elemento que va entre el elemento ul y la cual llevara los nombres de la lista.</il>
-  <il>figure: Actua como un section, que encierra una información como una imagen, ilustración, un diagrama, fragmento de código, o un esquema al que se hace referencia en el texto principal, pero que se puede mover a otra página o a un apéndice sin que afecte al flujo principal.</il>
-  <il>figcatption: Le da una pequeña descripción a lo que tiene dentro un elemento figure. Es decir, que tiene que existir un figure para tener un figcaption.</il>
-  <il>em: Elemento que pone el texto en cursiva.</il>
-  <il>strong: Elemento que sobrea más fuerte el texto que esta entre el elemento strong.</il>
-  <il>form: Elemento encargado para crear un formulario.</il>
+<il>H1 - H6: Este elemento es principalmente para darles encabezados a las páginas webs, dando prioridar de importante por el número 1 como más importante hasta el número 6 como menos importante, ádemas, es importante que el elemento h1 se deberá usar una vez por páginas y usarse sus desendencias si se busca tener encabezados.</il>
+<il>p: Es un elemento que se utiliza para dar párrafos a la página.</il>
+<il>main: <em>Elemento único</em>. Es de suma importancia para personas con discapacidades, que habitualmente acceden a la web a través de programas especiales como los navegadores de voz. Es la que permite clasificar de otros elementos como header y footer.</il>
+<il>a: Llamado elementos anchor, este elemento contiene un enlace que te llevará a otra página con el elemento anchor.</il>
+<il>section: Es una elemento que marcar contenido en un documento HTML y ayuda a ser útil la accesibilidad y la usabilidad del contenido, así como para mejorar la estructuración y la organización del contenido.</il>
+<il>ul: Elemento para comenzar una lista desordenada.</il>
+<il>ol: Elemento para comenzar una lista ordenada.</il>
+<il>li: Elemento que va entre el elemento ul y la cual llevara los nombres de la lista.</il>
+<il>figure: Actua como un section, que encierra una información como una imagen, ilustración, un diagrama, fragmento de código, o un esquema al que se hace referencia en el texto principal, pero que se puede mover a otra página o a un apéndice sin que afecte al flujo principal.</il>
+<il>figcatption: Le da una pequeña descripción a lo que tiene dentro un elemento figure. Es decir, que tiene que existir un figure para tener un figcaption.</il>
+<il>em: Elemento que pone el texto en cursiva.</il>
+<il>strong: Elemento que sobrea más fuerte el texto que esta entre el elemento strong.</il>
+<il>form: Elemento encargado para crear un formulario.</il>
 </ul>
 
 <h2>Elementos con auto-cierre</h2>
