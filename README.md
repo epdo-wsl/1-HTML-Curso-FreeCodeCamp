@@ -26,7 +26,8 @@ HTML esta conformado principalmente por elementos, de las cuales son las que se 
 
 <h2>Elementos con auto-cierre</h2>
 - img: <strong>Auto-cierre</strong>. Elemento que se sirve para añadir imagenes en el archivo html y se cierra automaticamente. Este elementos siempre va a llevar atributos que son las que permiten direccionar la imagen donde se encuentra y colocarle un nombre a la imagen para cuando no carge y se lea por el lector del navegador.
-- input: Permite recolectar datos desde un formulario web de diferentes formas. Puedes crear fácilmente un campo de contraseña (password), un botón de reinicio (reset) o un control para permitir a los usuarios seleccionar un archivo desde su computadora.
+
+- input: <strong>Auto-cierre</strong>. Permite recolectar datos desde un formulario web de diferentes formas. Puedes crear fácilmente un campo de contraseña (password), un botón de reinicio (reset) o un control para permitir a los usuarios seleccionar un archivo desde su computadora.
 
 
 <h2>Atributos de los elementos</h2>
