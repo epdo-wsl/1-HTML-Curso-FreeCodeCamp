@@ -25,20 +25,21 @@ HTML esta conformado principalmente por elementos, de las cuales son las que se 
 </ul>
 
 <h2>Elementos con auto-cierre</h2>
-- img: <strong>Auto-cierre</strong>. Elemento que se sirve para añadir imagenes en el archivo html y se cierra automaticamente. Este elementos siempre va a llevar atributos que son las que permiten direccionar la imagen donde se encuentra y colocarle un nombre a la imagen para cuando no carge y se lea por el lector del navegador.
-
-- input: <strong>Auto-cierre</strong>. Permite recolectar datos desde un formulario web de diferentes formas. Puedes crear fácilmente un campo de contraseña (password), un botón de reinicio (reset) o un control para permitir a los usuarios seleccionar un archivo desde su computadora.
-
+<ul>
+  <il>img: <strong>Auto-cierre</strong>. Elemento que se sirve para añadir imagenes en el archivo html y se cierra automaticamente. Este elementos siempre va a llevar atributos que son las que permiten direccionar la imagen donde se encuentra y colocarle un nombre a la imagen para cuando no carge y se lea por el lector del navegador.</il>
+  <il>input: <strong>Auto-cierre</strong>. Permite recolectar datos desde un formulario web de diferentes formas. Puedes crear fácilmente un campo de contraseña (password), un botón de reinicio (reset) o un control para permitir a los usuarios seleccionar un archivo desde su computadora.</il>
+</ul>
 
 <h2>Atributos de los elementos</h2>
 Los atributos HTML son palabras especiales usadas dentro de la etiqueta de apertura de un elemento para controlar el comportamiento del elemento.
 Los siguientes atributos mostrados en el curso son:
-
-- src: Este atributo es la que contiene el link de donde esta ubicado cierto archivo.
-- alt: Aquí se pone el nombre de la imagen para cuando no sea cargada.
-- target: Aquí se usa con el ¨_blank¨ para cuando se haga click donde se encuentre ubicado este atributo, se abra otra pestaña con la imagen.
-- action: Se puede encontrar dentro del elemento form para decir donde va a mandar los datos registrados del formulario.
-- type: Este atributo sirve para que el usuario puede interactuar e indicar que tipo va a ser, por ejemplo, texto, contraseñas, botones, entre otros.
-- name: Sirve para representar los datos que están siendo enviados.
-- placeholder: Nos da una idea de que tipo de información debemos escribir en un elemento input.
-- required: Este atributo hace que sea obligatorio llenar o verificar algún input.
+<ul>
+  <il>src: Este atributo es la que contiene el link de donde esta ubicado cierto archivo.</il>
+  <il>alt: Aquí se pone el nombre de la imagen para cuando no sea cargada.</il>
+  <il>target: Aquí se usa con el ¨_blank¨ para cuando se haga click donde se encuentre ubicado este atributo, se abra otra pestaña con la imagen.</il>
+  <il>action: Se puede encontrar dentro del elemento form para decir donde va a mandar los datos registrados del formulario.</il>
+  <il>type: Este atributo sirve para que el usuario puede interactuar e indicar que tipo va a ser, por ejemplo, texto, contraseñas, botones, entre otros.</il>
+  <il>name: Sirve para representar los datos que están siendo enviados.</il>
+  <il>placeholder: Nos da una idea de que tipo de información debemos escribir en un elemento input.</il>
+  <il>required: Este atributo hace que sea obligatorio llenar o verificar algún input.</il>
+</ul>
